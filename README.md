@@ -17,4 +17,4 @@ Cybersafe is a simple Android application that provides users with cybersecurity
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/cybersafe.git
+   git clone https://github.com/fvkt/cybersafe.git
