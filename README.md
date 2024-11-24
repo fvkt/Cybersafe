@@ -18,3 +18,32 @@ Cybersafe is a simple Android application that provides users with cybersecurity
 1. Clone this repository:
    ```bash
    git clone https://github.com/fvkt/cybersafe.git
+
+---
+
+### **Updated Outline with Version Changelog**
+
+**1. Introduction** (troubleshooting)
+   - Overview of the **Cybersafe** app and its purpose.
+   - Target audience: Users who are new to cybersecurity or want to improve their security awareness.
+   - Features: List of tips, simple UI, expandability.
+
+
+
+---
+
+### **Version Changelog** - For Ongoing Updates:
+
+
+### Version 1.0 (Initial Release)
+- Added list view displaying cybersecurity tips.
+- Implemented basic `LinearLayout` for UI.
+
+### Version 1.1 (Planned Updates)
+- Add "Tip of the Day" feature.
+- Introduce a splash screen.
+- Categorize tips into different sections.
+
+### Version 2.0 (Future)
+- Notifications for important security tips.
+- Option to save favorite tips.
